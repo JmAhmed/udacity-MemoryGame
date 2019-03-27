@@ -3,8 +3,8 @@ A simple game built to test your memory.
 
 
 ## Installation
-Open the index.html and start playing.
-
+* Download or Clone the Repository
+* open index.html
 
 ## Instructions
 * Click the card to reveal the icon inside it
